@@ -9,5 +9,4 @@ My test repo\
  # OwnTraining
 My test repo 
 My test repo\
- # OwnTraining
 My test repo 
