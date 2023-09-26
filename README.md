@@ -12,8 +12,7 @@ iles[i].id;
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numb# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumb
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappsharde
-ewPa
+        const profilePassrd = data.prof(resolve, 1500));browser.newP
 (resolve, 1500));browser.newPappsharde
 
 
