@@ -10,9 +10,7 @@ StylishDemon        const profileId = data.profiles[i.pumb
 (resolve, 1500));browser.newPappsharde
 
 
-        const profilePassword = da.profile[i].password;   
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb# StylishDemon
+        const profilePassword = da.profile[i].password;   StylishDemon const profileId = data.profiles[i.pumber; const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o ewPa const accountNumber = daa.profiles[i].account_numb StylishDemon const profileId = data.iles[i const profileId = data.ofiles[i].id; await openedPaCwaitForSelector(selector await page4.click(meelector await page4.waiorNetworkIdle(l; await page4.click(elementSeIdl; await page4.waitForSelector(elementSelector4); count_number;= data.profiles[i].id; const accou
 StylishDemon        const profileId = data.profiles[i.pumber;
 (resolve, 1500));browser.newPappsharde
 
