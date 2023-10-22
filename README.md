@@ -1,4 +1,3 @@
 # OwnTraining
-# StylishDemond = data.profiles[i.pumber;
-        const profilePassrd = dataP
+# StylishDemond = data.profileataP
 StylishDemon        const profileId = data.profiles[i
