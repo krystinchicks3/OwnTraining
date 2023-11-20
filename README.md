@@ -1,7 +1,6 @@
-# OwnTrain
-# OwnTrain
+# OwnTrn
 
 # OwnTrain
 
-        const accountNumber = data.profiles[i].account_number;
+        const accountNmber = data.profiles[i].account_number;
 # OwnTraint_number;
