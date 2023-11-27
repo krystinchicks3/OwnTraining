@@ -7,8 +7,5 @@
 kage:al.da# fl
 
 iles[i].id;ount_n
-          child: Textimport 'package:al.da# fl
-
-iles[i].id;ount_n
-iles[i].id;ount_ner;
+          child: Textimp
 # OwnTraint_number;
