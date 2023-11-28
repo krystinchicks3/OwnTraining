@@ -1,7 +1,5 @@
 # OwnTrn
 
-# OwnTrain
-
         const accountN/matda# flutterTest # flutterTest# flutter
           child: Textimport 'package:al.da# fl
 kage:al.da# fl
