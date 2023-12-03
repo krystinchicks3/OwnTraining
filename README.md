@@ -1,2 +1,2 @@
 
-kage:al.da
+kage:a
