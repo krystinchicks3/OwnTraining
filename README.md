@@ -9,12 +9,6 @@ umber;.profile[i].passwors[i]s const
 = daa.nst 
 umber;.profile[i].passwors[i]s const uytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllllllluytj=llllllllllllllllll
 lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluy
-
-umber;.profile[i].passwors[i]s const 
-= daa.nst 
-ta.profili].pasSelector
-
-
 umber;.profile[i].passwors[i]s const 
 = daa.nst 
 ta.profili].pasSelector
